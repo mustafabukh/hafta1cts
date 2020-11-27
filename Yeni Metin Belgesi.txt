@@ -1,0 +1,7 @@
+Both Python and Java are highly efficient programming languages. Python has an easy-to-read, elegant syntax. It's a highly preferred option for scripting and rapid application development in areas like Python web development. Whereas, Java is platform-independent, easy-to-learn, and highly stable
+
+
+Web Development. .
+Game Development. .
+Scientific and Numeric Applications. 
+Artificial Intelligence and Machine Learning. 
